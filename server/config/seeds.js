@@ -90,7 +90,7 @@ db.once('open', async () => {
             name: 'Green Smoothie',
             category: categories[0]._id,
             description: 'Go green! Juicy pineapple, toasted coconut, vibrant kale and spinach blended with ice and coconut milk, or substitute your favorite milk. Surprisingly delicious: this smoothie will have you craving the next one before your last sip.​',
-            image: 'star.png',
+            image: 'smoothie.png',
             price: 5.00,
             quantity: 1
         },
@@ -99,7 +99,7 @@ db.once('open', async () => {
             category: categories[0]._id,
             description:
                 `Starfruit- and kiwi-flavored juice and real kiwi fruit pieces added to coconutmilk and shaken with ice. Summer re-imagined.`,
-            image: 'sleepymoon00-360x.png',
+            image: 'star.png',
             price: 3.99,
             quantity: 1
         },
